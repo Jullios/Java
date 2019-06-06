@@ -8,11 +8,11 @@
 Bem vindo!
 Esse repositório contém os arquivos do projeto Folha de Pagamento. O projeto, basicamente, consiste em criar um painel administrativo para o controle de pagementos de funcionários de um determinada organização ou empresa. Alguns recursos incluídos:
 
-Adição de funcionário;
-Remoção de funcionário;
-Edição de funcionário;
-Realizar pagamentos a todos os funcionários;
-etc.
+* Adição de funcionário;
+* Remoção de funcionário;
+* Edição de funcionário;
+* Realizar pagamentos a todos os funcionários;
+* etc.
 
 Esse projeto foi:
 
