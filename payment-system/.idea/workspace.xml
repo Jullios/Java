@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2478a775-6c93-49c4-ae13-1b6c290e0c9d" name="Default Changelist" comment="">
+    <list default="true" id="2478a775-6c93-49c4-ae13-1b6c290e0c9d" name="Default Changelist" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/payment-system/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/payment-system/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrama1.dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diagrama1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folha de Pagamento(UML).dia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modificado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-system.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="525" column="37" selection-start-line="525" selection-start-column="37" selection-end-line="525" selection-end-column="37" />
+            <state relative-caret-position="7">
+              <caret line="622" column="1" selection-start-line="622" selection-start-column="1" selection-end-line="622" selection-end-column="1" />
               <folding>
                 <element signature="method#initSystem#0;class#Main#0" />
                 <element signature="method#newTotalEmployees#0;class#Main#0" />
@@ -133,7 +136,7 @@
       <workItem from="1559729389109" duration="14272000" />
       <workItem from="1559743682478" duration="9219000" />
       <workItem from="1559755774984" duration="19710000" />
-      <workItem from="1559775507392" duration="12289000" />
+      <workItem from="1559775507392" duration="13086000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1559025703497</created>
@@ -146,11 +149,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64514000" />
+    <option name="totallyTimeSpent" value="65311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15314835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -161,7 +163,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.033039648" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.033039648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -169,7 +171,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32819384" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.9196035" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.9196035" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -203,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="525" column="37" selection-start-line="525" selection-start-column="37" selection-end-line="525" selection-end-column="37" />
+        <state relative-caret-position="7">
+          <caret line="622" column="1" selection-start-line="622" selection-start-column="1" selection-end-line="622" selection-end-column="1" />
           <folding>
             <element signature="method#initSystem#0;class#Main#0" />
             <element signature="method#newTotalEmployees#0;class#Main#0" />
